@@ -1,0 +1,49 @@
+.body_backgrund 
+{
+    background-image: url("secc.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	background-image: url("backk.jpg");
+	background-position: center;
+    background-size: cover;
+}
+
+#h2
+{
+	font-family: 'Fuggles', cursive;
+	color: black;
+	font-size: 60px;
+	font-weight: bolder;
+ }
+#h3
+{
+	padding: 3px;
+	font-family: 'Fuggles', cursive;
+	color:black;
+	font-size: 30px;
+	font-weight: bolder;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
